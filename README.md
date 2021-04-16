@@ -1,5 +1,5 @@
 # Vertexwise-Triangle-Counting
-Counting the number of triangles adjacent with each node in an undirected, unweighted graph using large sparse matrices..
+Counting the number of triangles adjacent with each node in an undirected, unweighted graph using large sparse matrices.
 
 ~ Function V3 ~
 
